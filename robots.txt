@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://kusuginokazu.pages.dev/sitemap.xml
